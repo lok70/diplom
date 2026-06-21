@@ -1,0 +1,10 @@
+{
+       "id": "chat-formatter",
+       "name": "Chat Formatter",
+       "version": "1.2.0",
+       "minAppVersion": "0.15.0",
+       "description": "Автоматическое оформление диалогов с ИИ в красивые Callouts-блоки.",
+       "author": "kiiittto",
+       "authorUrl": "",
+       "isDesktopOnly": false
+   }
